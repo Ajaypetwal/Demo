@@ -1,3 +1,4 @@
+somechanges  dfdfdf
 WordPress - Web publishing software
 
 Copyright 2011-2022 by the contributors
@@ -23,7 +24,6 @@ permission notices:
 
   Wherever third party code has been used, credit has been given in the code's
   comments.
-
   b2 is released under the GPL
 
 and
